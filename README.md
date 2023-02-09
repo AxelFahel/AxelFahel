@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @AxelFahel / Oi, eu sou @AxelFahel
-- 👀 I’m interested in computer programming and technical support / Estou interessado em programação de computadores e suporte técnico
-- 🌱 I am currently learning about the universe and how to use programming to facilitate human access to other planets. / seedling Atualmente estou aprendendo sobre o universo e como usar a programação para facilitar o acesso humano a outros planetas.
-- 📫 How to reach me +55 85 99292-4653 / Como me localizar +55 85 99292-4653
+## Olá! Eu sou o Axel Fahel 🖐️
 
-<!---
-AxelFahel/AxelFahel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/e_fahel)
+
+![Axel Fahel stats](https://github-readme-stats.vercel.app/api?username=axelfahel&show_icons=true&theme=dracula&count_private=true)
+
+## Tecnologias Conhecidas
+
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+
+## PERFIL EM CONSTRUÇÃO
+
+-*-*-*-*-*-***-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
