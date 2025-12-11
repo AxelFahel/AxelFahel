@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 Tech Stack
-- **Linguagens & Frameworks**: Java | Spring Boot | JPA/Hibernate | Python (apoio)  
+- **Linguagens & Frameworks**: Java | PHP |Spring Boot | JPA/Hibernate | Python (apoio)  
 - **Banco de Dados**: MySQL | PostgreSQL | MongoDB  
 - **DevOps & Segurança**: Git | Docker | JWT | DevSecOps | Swagger/OpenAPI  
 - **Ferramentas**: Postman | Insomnia | Linux  
